@@ -2,6 +2,9 @@
 
 Welcome to the PowerBI custom visual that creates NLP (Natural Language Processing) analysis for the data on your dashboards! This project is designed to enhance your PowerBI dashboards by using NLP analysis from OpenAI's GPT to understand your data. Now you can ask questions about your data and get intelligent and insightful answers! 💡
 
+ [Medium post for full details about this project 💯](https://jegamboafuentes.medium.com/powering-your-dashboards-with-openai-api-1b4d1ebad742?source=friends_link&sk=75bedf9fd35ec5a9e477906cea12ffe1)
+
+
  ![alt text](https://github.com/jegamboafuentes/powerBIVisual_NLP_by_OpenAIGPT/blob/main/assets/medium_post_assets/gif.gif?raw=true)
 
 ## How to Install and Make Changes 🔧
